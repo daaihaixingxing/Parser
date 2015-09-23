@@ -1,0 +1,26 @@
+ [
+  {
+  "name":"zhi",
+  "gender":"男",
+  "age":"23",
+  "job":"boss"},
+  
+  {
+  "name":"liu",
+  "gender":"女",
+  "age":"22",
+  "job":"teaer"},
+  
+  {
+  "name":"ye",
+  "gender":"男",
+  "age":"23",
+  "job":"giator"},
+  
+  {
+  "name":"hou",
+  "gender":"女",
+  "age":"22",
+  "job":"boss"}
+  
+  ]

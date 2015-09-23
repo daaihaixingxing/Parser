@@ -1,0 +1,34 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<lanou39>
+    <student position = "iOS屌丝">
+      <name>Lee</name>
+      <gender>男</gender>
+      <hobby>踢足球</hobby>
+      <age>23</age>
+    </student>
+    <student position = "iOS老鸟">
+        <name>Jack</name>
+        <gender>男</gender>
+        <hobby>敲代码</hobby>
+        <age>50</age>
+    </student>
+    <student position = "iOS服务员">
+        <name>Maria</name>
+        <gender>女</gender>
+        <hobby>服务大众</hobby>
+        <age>25</age>
+    </student>
+    <student position = "iOS工程师">
+        <name>Jack's father</name>
+        <gender>男</gender>
+        <hobby>敲代码</hobby>
+        <age>50</age>
+    </student>
+    <student position = "iOS前台">
+        <name>Jack's mother</name>
+        <gender>女</gender>
+        <hobby>看门</hobby>
+        <age>50</age>
+    </student>
+    
+</lanou39>
